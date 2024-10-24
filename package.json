@@ -19,7 +19,7 @@
     "panzoom": "^2.5.0",
     "query-state": "^3.0.4",
     "simplesvg": "^0.1.1",
-    "vue": "^2.2.2"
+    "vue": "^3.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
